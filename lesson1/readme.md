@@ -1,3 +1,5 @@
+## [Презентация](https://docs.google.com/presentation/d/10EmXgq_1jBAGLZd88SfElK-qvVH6jllDcTO9uBwg3RI/edit?usp=sharing)
+
 ## Практика:
 
 | | |
