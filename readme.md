@@ -3,7 +3,7 @@
 Авторы курса: [@apat1n](https://t.me/apat1n), [@PurpleCarrot](https://t.me/PurpleCarrot), а также используются материалы [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
 
 ## Пререквизиты:
-- Базовое понимание математики [todo: набросать ссылок]
+- Базовое понимание математики ([Можно освежить алгебру здесь](https://algorithmica.org/ru/linalg)
 - *Храбрость и отвага*
 
 ## План лекций
