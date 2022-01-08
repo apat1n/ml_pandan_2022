@@ -3,7 +3,7 @@
 Авторы курса: [@apat1n](https://t.me/apat1n), [@PurpleCarrot](https://t.me/PurpleCarrot), а также используются материалы [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
 
 ## Пререквизиты:
-- Базовое понимание математики ([Можно освежить алгебру здесь](https://algorithmica.org/ru/linalg), теорию вероятности [отсюда](https://stepik.org/lesson/10107/step/1?unit=1951) и [отсюда](https://towardsdatascience.com/a-probability-crash-course-for-data-science-cd4b4fae03bc))
+- Базовое понимание математики (Можно освежить алгебру [здесь](https://algorithmica.org/ru/linalg), теорию вероятности [отсюда](https://stepik.org/lesson/10107/step/1?unit=1951) и [отсюда](https://towardsdatascience.com/a-probability-crash-course-for-data-science-cd4b4fae03bc))
 - *Храбрость и отвага*
 
 ## План лекций
