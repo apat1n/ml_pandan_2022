@@ -12,4 +12,5 @@
 
 | | |
 | --- | --- |
-| **Часть 1. Титаник** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vKzZuHJoxs24jKDgGGSZk8tLPa4Iczx4?usp=sharing) |
+| **Часть 1. Анализ данных** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vKzZuHJoxs24jKDgGGSZk8tLPa4Iczx4?usp=sharing) |
+| **Часть 2. Подготовка данных** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zA1b3S0t98Cg5B-DKTpFM27INxKON3Qc?usp=sharing) |
