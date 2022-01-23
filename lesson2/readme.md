@@ -10,4 +10,4 @@
 
 | | |
 | --- | --- |
-| **Рекомендации фильмов** | todo |
+| **Рекомендации фильмов** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r1-MqvK4WaWS9LErhOQg5sYzEXVAXkOn?usp=sharing) |
