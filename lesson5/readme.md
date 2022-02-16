@@ -11,4 +11,4 @@
 
 | | |
 | --- | --- |
-| **Flight Delay Prediction** | TODO |
+| **Flight Delay Prediction** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WJqTymbNSzH7YV6G64e6vtsIoTEapV7G?usp=sharing) |
